@@ -60,14 +60,20 @@ drop-off in cognitive sharpness.
 
 ## 📈 Key Finding
 
-| Window | Expected Pass Completion (xP) |
+| Window | Model-Predicted xP (distance & pressure held at sample means) |
 |---|---|
-| Minutes 0–15 (fresh) | **80.2%** |
-| Minutes 75–90 (fatigue window) | **76.4%** |
+| Minutes 0–15 (fresh) | **78.8%** |
+| Minutes 75–90 (fatigue window) | **76.6%** |
+| **Modeled decay** | **~1.8 percentage points** |
 
 Even after the model controls for pass distance and defensive pressure,
 completion probability is measurably lower in the closing minutes than in the
-opening minutes — the statistical signature of **decision decay**.
+opening minutes — the statistical signature of **decision decay**. On a
+single-match sample the `minute` coefficient itself doesn't clear
+significance (p = 0.64) — the confidence band in the chart below reflects
+that. The point estimate and direction are consistent with the cognitive
+fatigue hypothesis, and the "Future Work" section below outlines how a
+larger, multi-match sample would sharpen this estimate.
 
 `distance` was the strongest, most statistically significant predictor of
 pass failure (p < 0.001) — longer passes are structurally riskier. `minute`
