@@ -1,0 +1,847 @@
+match_id,period,minute,team,player,distance,pressure,outcome
+8658,1,0,Croatia,Mario Mandžukić,11.05,0,1
+8658,1,0,Croatia,Marcelo Brozović,11.18,0,1
+8658,1,0,Croatia,Luka Modrić,23.02,0,1
+8658,1,0,Croatia,Šime Vrsaljko,40.31,1,1
+8658,1,0,Croatia,Danijel Subašić,64.12,1,0
+8658,1,0,France,Raphaël Varane,10.0,1,0
+8658,1,0,Croatia,Ivan Perišić,12.65,0,1
+8658,1,0,Croatia,Ivan Rakitić,17.89,1,1
+8658,1,0,Croatia,Ivan Strinić,25.32,0,1
+8658,1,0,Croatia,Marcelo Brozović,3.61,1,1
+8658,1,0,Croatia,Ivan Perišić,12.37,0,1
+8658,1,0,Croatia,Domagoj Vida,7.62,0,1
+8658,1,0,Croatia,Luka Modrić,10.44,0,1
+8658,1,0,Croatia,Domagoj Vida,11.18,0,1
+8658,1,0,Croatia,Ivan Rakitić,12.81,0,1
+8658,1,0,Croatia,Domagoj Vida,19.1,0,1
+8658,1,0,Croatia,Dejan Lovren,37.58,0,1
+8658,1,0,Croatia,Ivan Rakitić,16.12,1,1
+8658,1,0,France,Benjamin Pavard,19.24,0,1
+8658,1,0,France,N''Golo Kanté,5.1,1,0
+8658,1,0,Croatia,Marcelo Brozović,32.65,0,1
+8658,1,1,Croatia,Ivan Perišić,6.4,0,0
+8658,1,1,France,Antoine Griezmann,6.32,0,1
+8658,1,1,France,Benjamin Pavard,33.53,0,1
+8658,1,1,France,Raphaël Varane,31.62,1,1
+8658,1,1,France,Hugo Lloris,17.8,0,1
+8658,1,1,France,Samuel Yves Umtiti,15.13,0,1
+8658,1,1,France,Blaise Matuidi,16.49,1,1
+8658,1,1,France,Samuel Yves Umtiti,27.02,0,1
+8658,1,1,France,Olivier Giroud,4.0,0,1
+8658,1,1,France,Blaise Matuidi,6.4,0,1
+8658,1,1,France,Olivier Giroud,23.35,0,1
+8658,1,1,France,Raphaël Varane,20.59,0,1
+8658,1,1,France,Paul Pogba,42.2,0,0
+8658,1,1,Croatia,Domagoj Vida,13.6,0,1
+8658,1,1,Croatia,Ivan Strinić,2.24,1,0
+8658,1,2,Croatia,Marcelo Brozović,5.83,1,1
+8658,1,2,Croatia,Ivan Strinić,24.08,0,1
+8658,1,2,Croatia,Mario Mandžukić,24.0,0,1
+8658,1,2,France,Kylian Mbappé Lottin,12.65,0,0
+8658,1,2,France,Samuel Yves Umtiti,18.68,1,0
+8658,1,3,Croatia,Ivan Strinić,23.19,0,1
+8658,1,3,Croatia,Mario Mandžukić,8.49,0,0
+8658,1,3,France,Kylian Mbappé Lottin,32.25,0,0
+8658,1,3,Croatia,Marcelo Brozović,19.72,0,1
+8658,1,3,Croatia,Domagoj Vida,13.15,0,1
+8658,1,3,Croatia,Marcelo Brozović,11.0,0,1
+8658,1,3,Croatia,Ivan Rakitić,10.44,0,1
+8658,1,3,Croatia,Marcelo Brozović,55.54,0,1
+8658,1,3,Croatia,Dejan Lovren,36.69,0,1
+8658,1,3,Croatia,Domagoj Vida,12.21,0,1
+8658,1,3,Croatia,Ivan Rakitić,72.47,1,1
+8658,1,3,Croatia,Ante Rebić,3.16,0,0
+8658,1,3,Croatia,Ante Rebić,19.03,1,1
+8658,1,4,Croatia,Šime Vrsaljko,31.58,0,0
+8658,1,4,Croatia,Šime Vrsaljko,6.71,0,1
+8658,1,4,Croatia,Luka Modrić,3.61,0,1
+8658,1,4,France,Blaise Matuidi,10.44,0,1
+8658,1,4,France,N''Golo Kanté,12.17,0,1
+8658,1,4,France,Lucas Hernández Pi,10.44,1,1
+8658,1,4,France,N''Golo Kanté,46.04,0,0
+8658,1,4,Croatia,Dejan Lovren,19.65,1,1
+8658,1,4,Croatia,Domagoj Vida,44.42,0,1
+8658,1,4,Croatia,Danijel Subašić,32.7,0,1
+8658,1,4,Croatia,Dejan Lovren,9.43,0,1
+8658,1,4,Croatia,Marcelo Brozović,17.03,0,1
+8658,1,4,Croatia,Luka Modrić,42.11,0,1
+8658,1,4,Croatia,Mario Mandžukić,8.06,0,0
+8658,1,4,France,N''Golo Kanté,15.62,1,1
+8658,1,4,France,Samuel Yves Umtiti,2.24,0,0
+8658,1,5,France,Hugo Lloris,29.15,0,1
+8658,1,5,France,Raphaël Varane,12.73,0,1
+8658,1,5,France,Paul Pogba,27.2,1,1
+8658,1,5,France,Samuel Yves Umtiti,8.94,0,1
+8658,1,5,France,N''Golo Kanté,8.25,0,1
+8658,1,5,France,Samuel Yves Umtiti,8.0,0,1
+8658,1,5,France,N''Golo Kanté,27.51,0,1
+8658,1,5,France,Paul Pogba,28.64,0,1
+8658,1,5,France,Benjamin Pavard,13.04,1,1
+8658,1,5,France,Raphaël Varane,29.27,1,1
+8658,1,6,France,Samuel Yves Umtiti,26.93,0,1
+8658,1,6,France,Blaise Matuidi,42.11,1,0
+8658,1,6,Croatia,Šime Vrsaljko,10.0,0,0
+8658,1,6,Croatia,Marcelo Brozović,3.61,0,1
+8658,1,6,Croatia,Ivan Rakitić,8.06,0,1
+8658,1,6,Croatia,Marcelo Brozović,6.71,0,1
+8658,1,6,Croatia,Luka Modrić,10.82,1,1
+8658,1,6,Croatia,Marcelo Brozović,45.28,0,1
+8658,1,6,Croatia,Ivan Rakitić,25.81,0,1
+8658,1,7,Croatia,Ivan Strinić,12.17,0,1
+8658,1,7,Croatia,Ivan Rakitić,12.37,0,1
+8658,1,7,Croatia,Ivan Strinić,1.0,0,0
+8658,1,8,Croatia,Luka Modrić,39.05,0,0
+8658,1,8,France,N''Golo Kanté,2.0,0,0
+8658,1,8,Croatia,Ivan Rakitić,7.07,0,1
+8658,1,8,Croatia,Marcelo Brozović,10.05,1,1
+8658,1,8,Croatia,Ivan Rakitić,40.26,1,0
+8658,1,8,France,Olivier Giroud,6.32,0,0
+8658,1,8,France,Hugo Lloris,65.38,0,1
+8658,1,8,France,Olivier Giroud,9.49,0,0
+8658,1,8,Croatia,Ivan Rakitić,33.84,0,1
+8658,1,9,Croatia,Dejan Lovren,21.02,0,1
+8658,1,9,Croatia,Danijel Subašić,26.42,1,1
+8658,1,9,Croatia,Dejan Lovren,12.81,0,1
+8658,1,9,Croatia,Šime Vrsaljko,11.0,1,1
+8658,1,9,Croatia,Dejan Lovren,73.76,1,0
+8658,1,9,France,Hugo Lloris,25.08,0,1
+8658,1,9,Croatia,Luka Modrić,7.28,1,1
+8658,1,9,Croatia,Marcelo Brozović,5.1,1,1
+8658,1,9,Croatia,Ivan Rakitić,8.06,1,1
+8658,1,9,Croatia,Luka Modrić,57.14,0,1
+8658,1,9,Croatia,Ivan Strinić,11.66,0,1
+8658,1,9,Croatia,Ivan Perišić,21.02,0,0
+8658,1,10,Croatia,Marcelo Brozović,26.4,0,1
+8658,1,10,Croatia,Domagoj Vida,13.93,0,1
+8658,1,10,Croatia,Marcelo Brozović,14.76,0,1
+8658,1,10,Croatia,Ivan Rakitić,9.22,1,1
+8658,1,10,Croatia,Marcelo Brozović,28.64,0,1
+8658,1,10,Croatia,Dejan Lovren,14.14,0,1
+8658,1,10,Croatia,Luka Modrić,12.0,0,1
+8658,1,10,Croatia,Šime Vrsaljko,14.32,0,1
+8658,1,10,Croatia,Dejan Lovren,11.7,0,1
+8658,1,10,Croatia,Marcelo Brozović,24.21,0,1
+8658,1,10,Croatia,Šime Vrsaljko,4.24,0,1
+8658,1,10,Croatia,Luka Modrić,21.38,1,1
+8658,1,10,Croatia,Dejan Lovren,28.64,0,1
+8658,1,10,Croatia,Marcelo Brozović,26.4,0,1
+8658,1,10,Croatia,Ivan Rakitić,32.56,1,1
+8658,1,11,France,Hugo Lloris,69.35,0,1
+8658,1,11,France,Olivier Giroud,8.94,0,1
+8658,1,11,France,Paul Pogba,35.11,0,1
+8658,1,11,France,Lucas Hernández Pi,11.4,0,0
+8658,1,11,Croatia,Luka Modrić,27.17,0,0
+8658,1,11,France,Paul Pogba,16.03,0,1
+8658,1,11,France,Samuel Yves Umtiti,26.68,0,1
+8658,1,11,France,Raphaël Varane,32.28,0,1
+8658,1,11,France,Benjamin Pavard,14.32,0,1
+8658,1,11,France,Raphaël Varane,9.22,0,1
+8658,1,12,France,Benjamin Pavard,38.08,1,1
+8658,1,12,France,Hugo Lloris,59.91,0,0
+8658,1,12,Croatia,Dejan Lovren,19.31,1,1
+8658,1,12,Croatia,Mario Mandžukić,17.26,0,1
+8658,1,12,Croatia,Marcelo Brozović,10.0,1,0
+8658,1,12,France,Blaise Matuidi,25.08,0,1
+8658,1,12,France,Lucas Hernández Pi,10.44,1,1
+8658,1,12,France,Antoine Griezmann,14.32,0,1
+8658,1,12,France,Blaise Matuidi,18.79,0,1
+8658,1,12,France,Samuel Yves Umtiti,23.09,0,1
+8658,1,12,France,Raphaël Varane,29.07,0,1
+8658,1,12,Croatia,Ivan Perišić,13.04,0,0
+8658,1,12,France,Benjamin Pavard,19.65,0,1
+8658,1,12,France,Raphaël Varane,37.01,0,1
+8658,1,12,France,Samuel Yves Umtiti,79.4,1,0
+8658,1,13,Croatia,Dejan Lovren,13.45,0,1
+8658,1,13,Croatia,Marcelo Brozović,20.25,0,1
+8658,1,13,Croatia,Ivan Rakitić,40.01,1,1
+8658,1,13,Croatia,Dejan Lovren,13.45,0,1
+8658,1,13,Croatia,Šime Vrsaljko,9.85,0,1
+8658,1,13,Croatia,Dejan Lovren,20.25,0,1
+8658,1,13,Croatia,Ivan Perišić,13.42,0,1
+8658,1,13,Croatia,Luka Modrić,14.04,0,1
+8658,1,13,Croatia,Ante Rebić,36.14,0,0
+8658,1,14,France,Hugo Lloris,70.71,0,0
+8658,1,14,Croatia,Ivan Rakitić,20.02,0,1
+8658,1,14,Croatia,Mario Mandžukić,13.04,0,1
+8658,1,14,Croatia,Ivan Rakitić,33.02,0,1
+8658,1,14,Croatia,Ivan Perišić,17.72,0,0
+8658,1,14,Croatia,Domagoj Vida,40.2,0,1
+8658,1,14,Croatia,Dejan Lovren,11.66,0,1
+8658,1,14,Croatia,Luka Modrić,16.28,0,1
+8658,1,14,Croatia,Šime Vrsaljko,14.87,0,1
+8658,1,14,Croatia,Dejan Lovren,29.15,0,1
+8658,1,15,Croatia,Dejan Lovren,21.1,0,1
+8658,1,15,Croatia,Marcelo Brozović,24.35,0,1
+8658,1,15,Croatia,Luka Modrić,26.08,0,0
+8658,1,15,France,Lucas Hernández Pi,9.06,1,1
+8658,1,15,France,N''Golo Kanté,10.63,0,1
+8658,1,15,France,Blaise Matuidi,24.74,0,1
+8658,1,15,France,Paul Pogba,41.77,0,1
+8658,1,15,France,Kylian Mbappé Lottin,1.41,1,0
+8658,1,15,France,Kylian Mbappé Lottin,18.36,0,1
+8658,1,15,France,Raphaël Varane,25.06,1,1
+8658,1,16,France,N''Golo Kanté,8.06,0,1
+8658,1,16,France,Blaise Matuidi,9.22,1,1
+8658,1,16,France,N''Golo Kanté,55.47,0,0
+8658,1,16,Croatia,Ivan Strinić,10.0,0,0
+8658,1,16,Croatia,Ante Rebić,3.16,1,1
+8658,1,16,Croatia,Ivan Strinić,15.65,0,1
+8658,1,16,France,Olivier Giroud,36.77,0,1
+8658,1,16,France,Raphaël Varane,48.84,0,1
+8658,1,16,France,Lucas Hernández Pi,44.42,0,0
+8658,1,16,France,Antoine Griezmann,19.21,0,1
+8658,1,16,France,Kylian Mbappé Lottin,5.83,0,0
+8658,1,16,Croatia,Ivan Perišić,23.26,0,0
+8658,1,16,France,Raphaël Varane,17.03,0,1
+8658,1,17,France,Antoine Griezmann,25.61,0,0
+8658,1,19,Croatia,Mario Mandžukić,10.05,0,1
+8658,1,19,Croatia,Marcelo Brozović,7.28,0,1
+8658,1,19,Croatia,Luka Modrić,19.03,0,1
+8658,1,19,Croatia,Šime Vrsaljko,13.45,1,1
+8658,1,19,Croatia,Dejan Lovren,43.17,0,1
+8658,1,19,Croatia,Domagoj Vida,11.4,0,1
+8658,1,19,Croatia,Ivan Rakitić,38.64,1,1
+8658,1,19,Croatia,Dejan Lovren,21.02,0,1
+8658,1,19,Croatia,Šime Vrsaljko,26.4,0,0
+8658,1,19,France,Lucas Hernández Pi,13.04,0,1
+8658,1,19,France,N''Golo Kanté,10.0,1,1
+8658,1,19,France,Blaise Matuidi,13.6,0,1
+8658,1,20,Croatia,Luka Modrić,24.17,0,1
+8658,1,21,France,Hugo Lloris,73.06,0,1
+8658,1,21,Croatia,Luka Modrić,32.31,1,0
+8658,1,21,France,Lucas Hernández Pi,37.05,0,1
+8658,1,21,France,Samuel Yves Umtiti,35.47,0,1
+8658,1,21,France,Hugo Lloris,60.37,1,0
+8658,1,21,Croatia,Šime Vrsaljko,12.04,0,0
+8658,1,21,France,Blaise Matuidi,29.0,0,0
+8658,1,22,Croatia,Šime Vrsaljko,18.03,0,1
+8658,1,22,Croatia,Ivan Perišić,13.6,1,1
+8658,1,22,Croatia,Luka Modrić,9.9,1,1
+8658,1,22,Croatia,Šime Vrsaljko,8.6,0,1
+8658,1,22,Croatia,Marcelo Brozović,15.23,0,0
+8658,1,22,France,Blaise Matuidi,12.21,0,1
+8658,1,22,France,Paul Pogba,30.02,0,1
+8658,1,22,Croatia,Ivan Rakitić,12.37,1,1
+8658,1,23,Croatia,Luka Modrić,44.6,0,0
+8658,1,23,Croatia,Marcelo Brozović,32.06,0,0
+8658,1,23,Croatia,Dejan Lovren,28.02,0,1
+8658,1,23,Croatia,Mario Mandžukić,37.05,0,1
+8658,1,24,France,Hugo Lloris,70.35,0,0
+8658,1,24,Croatia,Marcelo Brozović,20.12,0,1
+8658,1,24,Croatia,Ivan Perišić,13.42,0,0
+8658,1,24,France,Antoine Griezmann,24.33,1,1
+8658,1,24,France,Lucas Hernández Pi,28.18,0,0
+8658,1,24,Croatia,Šime Vrsaljko,0.0,0,0
+8658,1,24,Croatia,Šime Vrsaljko,23.35,0,0
+8658,1,24,France,Blaise Matuidi,23.85,0,1
+8658,1,24,France,Antoine Griezmann,29.02,1,0
+8658,1,24,Croatia,Ivan Strinić,25.94,0,0
+8658,1,24,France,Benjamin Pavard,35.38,0,0
+8658,1,25,Croatia,Domagoj Vida,5.0,1,1
+8658,1,25,Croatia,Marcelo Brozović,43.29,1,1
+8658,1,25,Croatia,Šime Vrsaljko,43.57,0,0
+8658,1,25,France,Samuel Yves Umtiti,24.04,0,1
+8658,1,25,France,Olivier Giroud,7.07,0,0
+8658,1,25,Croatia,Marcelo Brozović,24.33,0,0
+8658,1,25,France,Raphaël Varane,35.0,0,1
+8658,1,25,France,Samuel Yves Umtiti,3.16,0,0
+8658,1,25,France,Lucas Hernández Pi,24.19,0,1
+8658,1,26,Croatia,Šime Vrsaljko,9.22,0,1
+8658,1,26,Croatia,Ivan Rakitić,13.15,0,1
+8658,1,26,Croatia,Marcelo Brozović,16.49,0,1
+8658,1,26,Croatia,Dejan Lovren,23.09,1,0
+8658,1,26,France,Lucas Hernández Pi,17.8,0,1
+8658,1,26,France,Blaise Matuidi,13.42,0,0
+8658,1,26,Croatia,Dejan Lovren,24.08,0,0
+8658,1,26,France,Antoine Griezmann,48.38,0,1
+8658,1,26,France,Benjamin Pavard,13.6,0,1
+8658,1,26,France,Kylian Mbappé Lottin,8.54,0,1
+8658,1,26,France,Benjamin Pavard,34.37,1,0
+8658,1,26,Croatia,Ante Rebić,10.0,1,1
+8658,1,26,Croatia,Domagoj Vida,45.12,0,1
+8658,1,26,Croatia,Mario Mandžukić,20.62,0,1
+8658,1,27,Croatia,Luka Modrić,35.61,0,1
+8658,1,27,Croatia,Šime Vrsaljko,11.05,1,1
+8658,1,27,Croatia,Mario Mandžukić,8.6,0,1
+8658,1,27,Croatia,Dejan Lovren,5.0,1,1
+8658,1,27,Croatia,Domagoj Vida,6.08,1,1
+8658,1,29,France,Benjamin Pavard,7.62,0,0
+8658,1,29,France,Benjamin Pavard,18.03,0,1
+8658,1,29,France,Raphaël Varane,53.08,1,1
+8658,1,29,France,Hugo Lloris,60.54,0,1
+8658,1,29,France,Benjamin Pavard,27.66,0,0
+8658,1,30,Croatia,Ivan Perišić,9.22,0,1
+8658,1,30,Croatia,Luka Modrić,9.43,0,1
+8658,1,30,Croatia,Marcelo Brozović,18.38,0,1
+8658,1,30,Croatia,Luka Modrić,21.02,0,1
+8658,1,30,Croatia,Mario Mandžukić,26.63,0,0
+8658,1,30,France,Lucas Hernández Pi,14.32,0,1
+8658,1,30,France,Paul Pogba,15.0,0,1
+8658,1,30,Croatia,Luka Modrić,25.63,0,1
+8658,1,30,Croatia,Dejan Lovren,51.62,0,1
+8658,1,30,Croatia,Danijel Subašić,18.6,0,1
+8658,1,30,Croatia,Domagoj Vida,9.0,0,1
+8658,1,30,Croatia,Marcelo Brozović,12.37,0,1
+8658,1,30,Croatia,Ivan Rakitić,20.4,0,1
+8658,1,30,Croatia,Marcelo Brozović,13.15,1,1
+8658,1,31,Croatia,Domagoj Vida,14.76,1,1
+8658,1,31,Croatia,Luka Modrić,4.12,1,1
+8658,1,31,Croatia,Marcelo Brozović,10.63,0,1
+8658,1,31,Croatia,Ivan Rakitić,10.82,1,1
+8658,1,31,Croatia,Mario Mandžukić,8.25,0,1
+8658,1,31,Croatia,Ivan Rakitić,63.29,0,0
+8658,1,31,France,Lucas Hernández Pi,17.03,0,0
+8658,1,31,Croatia,Luka Modrić,54.08,0,1
+8658,1,31,Croatia,Mario Mandžukić,15.23,0,1
+8658,1,31,Croatia,Ivan Perišić,9.0,0,1
+8658,1,31,France,Lucas Hernández Pi,20.02,0,1
+8658,1,31,Croatia,Ivan Rakitić,13.6,1,1
+8658,1,31,Croatia,Dejan Lovren,50.93,1,1
+8658,1,32,Croatia,Danijel Subašić,64.08,0,0
+8658,1,32,France,Blaise Matuidi,3.16,1,0
+8658,1,32,Croatia,Šime Vrsaljko,24.33,0,1
+8658,1,32,Croatia,Dejan Lovren,12.17,0,1
+8658,1,32,Croatia,Luka Modrić,10.0,0,1
+8658,1,32,Croatia,Šime Vrsaljko,7.07,0,1
+8658,1,32,Croatia,Ivan Perišić,5.83,0,1
+8658,1,32,Croatia,Luka Modrić,30.41,0,1
+8658,1,32,Croatia,Mario Mandžukić,29.55,0,1
+8658,1,32,Croatia,Ante Rebić,30.27,0,0
+8658,1,32,France,Hugo Lloris,73.5,0,0
+8658,1,32,Croatia,Domagoj Vida,32.89,0,0
+8658,1,33,France,Antoine Griezmann,30.07,0,0
+8658,1,39,Croatia,Šime Vrsaljko,24.21,1,1
+8658,1,39,Croatia,Dejan Lovren,25.18,0,1
+8658,1,39,Croatia,Domagoj Vida,24.35,0,1
+8658,1,39,Croatia,Ivan Rakitić,25.5,0,1
+8658,1,39,Croatia,Ivan Perišić,19.72,0,1
+8658,1,39,Croatia,Ivan Strinić,26.48,0,1
+8658,1,39,Croatia,Ivan Perišić,33.06,1,1
+8658,1,39,France,Hugo Lloris,60.67,0,1
+8658,1,39,France,Olivier Giroud,17.03,1,1
+8658,1,39,France,Kylian Mbappé Lottin,29.15,0,0
+8658,1,39,Croatia,Dejan Lovren,11.18,0,1
+8658,1,39,Croatia,Marcelo Brozović,46.23,1,1
+8658,1,40,Croatia,Luka Modrić,22.02,0,1
+8658,1,40,Croatia,Domagoj Vida,15.0,0,1
+8658,1,40,Croatia,Ivan Rakitić,15.81,0,1
+8658,1,40,Croatia,Marcelo Brozović,19.31,0,1
+8658,1,40,Croatia,Dejan Lovren,22.47,0,1
+8658,1,40,Croatia,Šime Vrsaljko,12.37,1,1
+8658,1,40,Croatia,Dejan Lovren,13.45,0,1
+8658,1,40,Croatia,Marcelo Brozović,34.21,0,1
+8658,1,40,Croatia,Domagoj Vida,22.8,0,1
+8658,1,40,Croatia,Ivan Strinić,17.09,0,1
+8658,1,40,Croatia,Ivan Perišić,14.04,0,1
+8658,1,40,Croatia,Ivan Strinić,17.12,0,1
+8658,1,40,Croatia,Marcelo Brozović,29.0,0,1
+8658,1,40,Croatia,Luka Modrić,13.45,0,1
+8658,1,40,Croatia,Dejan Lovren,11.4,0,1
+8658,1,41,Croatia,Šime Vrsaljko,10.63,0,0
+8658,1,41,Croatia,Šime Vrsaljko,6.4,0,1
+8658,1,41,Croatia,Luka Modrić,7.62,0,1
+8658,1,41,Croatia,Luka Modrić,6.32,1,1
+8658,1,41,France,Benjamin Pavard,49.37,0,0
+8658,1,41,Croatia,Domagoj Vida,35.17,0,1
+8658,1,41,Croatia,Danijel Subašić,24.41,0,1
+8658,1,41,Croatia,Dejan Lovren,22.36,0,1
+8658,1,41,Croatia,Marcelo Brozović,13.6,0,1
+8658,1,41,Croatia,Luka Modrić,16.03,0,1
+8658,1,41,Croatia,Šime Vrsaljko,15.26,0,1
+8658,1,42,Croatia,Luka Modrić,34.71,0,0
+8658,1,42,Croatia,Luka Modrić,51.74,0,1
+8658,1,43,Croatia,Ivan Rakitić,35.51,0,0
+8658,1,43,Croatia,Ivan Rakitić,40.31,0,1
+8658,1,43,Croatia,Šime Vrsaljko,53.26,0,1
+8658,1,43,Croatia,Ivan Rakitić,18.03,0,1
+8658,1,45,Croatia,Ivan Rakitić,39.12,0,1
+8658,1,45,France,Hugo Lloris,61.01,0,0
+8658,1,45,Croatia,Luka Modrić,18.36,1,1
+8658,1,46,Croatia,Ante Rebić,16.0,0,0
+8658,1,46,France,Raphaël Varane,16.64,0,1
+8658,1,46,France,Antoine Griezmann,5.0,0,1
+8658,1,46,France,Blaise Matuidi,10.2,0,1
+8658,1,46,France,Samuel Yves Umtiti,31.91,0,1
+8658,1,46,Croatia,Marcelo Brozović,5.39,0,1
+8658,1,46,Croatia,Ivan Perišić,45.28,0,1
+8658,1,46,France,Hugo Lloris,80.06,0,1
+8658,1,46,Croatia,Šime Vrsaljko,9.22,0,1
+8658,1,46,Croatia,Marcelo Brozović,28.28,1,1
+8658,1,46,Croatia,Domagoj Vida,26.4,0,1
+8658,1,47,Croatia,Dejan Lovren,33.73,0,1
+8658,1,47,Croatia,Šime Vrsaljko,31.14,0,1
+8658,1,47,France,Olivier Giroud,6.0,0,1
+8658,1,47,France,Lucas Hernández Pi,46.14,0,0
+8658,1,47,Croatia,Ivan Rakitić,20.59,0,1
+8658,1,47,Croatia,Marcelo Brozović,34.99,0,1
+8658,1,47,Croatia,Luka Modrić,11.4,0,1
+8658,1,47,Croatia,Marcelo Brozović,20.62,0,1
+8658,1,47,Croatia,Šime Vrsaljko,77.1,1,1
+8658,1,47,Croatia,Ivan Perišić,22.0,0,1
+8658,1,48,France,Raphaël Varane,35.23,0,0
+8658,2,45,France,Antoine Griezmann,37.85,0,1
+8658,2,45,France,Raphaël Varane,65.74,0,0
+8658,2,45,Croatia,Ivan Rakitić,8.06,1,1
+8658,2,45,Croatia,Ivan Strinić,21.02,0,0
+8658,2,45,France,Benjamin Pavard,11.18,0,1
+8658,2,45,France,Kylian Mbappé Lottin,14.87,0,1
+8658,2,45,France,Antoine Griezmann,8.25,1,1
+8658,2,45,France,Raphaël Varane,28.79,0,1
+8658,2,45,France,Samuel Yves Umtiti,12.53,1,1
+8658,2,45,France,Antoine Griezmann,7.81,0,0
+8658,2,45,Croatia,Šime Vrsaljko,3.61,1,1
+8658,2,45,Croatia,Luka Modrić,17.2,0,1
+8658,2,45,Croatia,Ivan Rakitić,27.31,1,1
+8658,2,45,Croatia,Ante Rebić,15.52,1,1
+8658,2,45,Croatia,Šime Vrsaljko,26.93,1,0
+8658,2,45,France,Hugo Lloris,33.24,0,1
+8658,2,45,France,Paul Pogba,16.0,1,1
+8658,2,45,France,Benjamin Pavard,7.28,0,1
+8658,2,46,France,Paul Pogba,11.66,0,1
+8658,2,46,France,Benjamin Pavard,47.01,0,1
+8658,2,46,France,Olivier Giroud,14.76,0,1
+8658,2,46,Croatia,Marcelo Brozović,11.0,0,1
+8658,2,46,Croatia,Luka Modrić,7.21,0,1
+8658,2,46,Croatia,Marcelo Brozović,19.1,0,1
+8658,2,46,Croatia,Šime Vrsaljko,24.6,0,1
+8658,2,46,Croatia,Dejan Lovren,13.15,0,1
+8658,2,46,Croatia,Domagoj Vida,9.85,0,1
+8658,2,46,Croatia,Dejan Lovren,9.85,0,1
+8658,2,46,Croatia,Luka Modrić,28.86,0,1
+8658,2,46,Croatia,Šime Vrsaljko,46.07,0,1
+8658,2,46,Croatia,Mario Mandžukić,3.16,0,1
+8658,2,46,Croatia,Luka Modrić,29.83,0,1
+8658,2,46,Croatia,Šime Vrsaljko,20.1,0,1
+8658,2,46,Croatia,Marcelo Brozović,13.15,1,1
+8658,2,46,Croatia,Šime Vrsaljko,31.76,0,1
+8658,2,46,Croatia,Dejan Lovren,27.02,0,1
+8658,2,46,Croatia,Ivan Rakitić,10.44,0,0
+8658,2,47,Croatia,Ivan Rakitić,24.35,0,1
+8658,2,47,Croatia,Luka Modrić,48.51,0,1
+8658,2,48,France,Hugo Lloris,62.2,0,1
+8658,2,48,France,Olivier Giroud,12.0,0,1
+8658,2,48,France,Antoine Griezmann,32.06,1,1
+8658,2,48,France,Lucas Hernández Pi,9.43,1,1
+8658,2,48,Croatia,Ante Rebić,16.28,0,1
+8658,2,48,Croatia,Marcelo Brozović,58.24,0,0
+8658,2,48,France,Hugo Lloris,56.14,0,0
+8658,2,48,Croatia,Dejan Lovren,23.19,0,1
+8658,2,48,Croatia,Šime Vrsaljko,36.88,1,0
+8658,2,48,France,Samuel Yves Umtiti,14.42,1,1
+8658,2,48,France,Paul Pogba,29.68,0,0
+8658,2,48,Croatia,Ivan Strinić,29.27,0,0
+8658,2,48,Croatia,Mario Mandžukić,12.37,1,0
+8658,2,48,France,Paul Pogba,9.85,0,1
+8658,2,48,France,Benjamin Pavard,67.62,1,0
+8658,2,49,Croatia,Šime Vrsaljko,8.25,0,1
+8658,2,49,Croatia,Luka Modrić,24.6,0,0
+8658,2,49,Croatia,Luka Modrić,29.27,0,0
+8658,2,49,France,Hugo Lloris,67.9,0,1
+8658,2,50,France,Olivier Giroud,6.0,0,0
+8658,2,50,Croatia,Ivan Rakitić,17.2,1,1
+8658,2,50,Croatia,Luka Modrić,9.22,1,1
+8658,2,50,Croatia,Mario Mandžukić,17.69,1,0
+8658,2,50,Croatia,Šime Vrsaljko,20.81,0,1
+8658,2,50,Croatia,Marcelo Brozović,39.05,0,0
+8658,2,50,Croatia,Šime Vrsaljko,7.07,0,1
+8658,2,50,Croatia,Marcelo Brozović,22.02,1,1
+8658,2,50,Croatia,Dejan Lovren,27.73,1,1
+8658,2,50,Croatia,Domagoj Vida,13.6,0,1
+8658,2,50,Croatia,Ivan Rakitić,25.5,0,1
+8658,2,50,Croatia,Ivan Strinić,18.68,0,1
+8658,2,50,Croatia,Ivan Rakitić,13.6,0,1
+8658,2,50,Croatia,Marcelo Brozović,20.4,0,1
+8658,2,50,Croatia,Luka Modrić,3.0,0,1
+8658,2,50,Croatia,Marcelo Brozović,17.49,0,1
+8658,2,50,Croatia,Ante Rebić,18.03,1,0
+8658,2,50,France,Blaise Matuidi,8.06,1,0
+8658,2,51,Croatia,Šime Vrsaljko,10.82,0,1
+8658,2,51,Croatia,Luka Modrić,9.06,1,1
+8658,2,51,Croatia,Marcelo Brozović,13.34,0,1
+8658,2,51,Croatia,Luka Modrić,31.62,0,1
+8658,2,51,France,Blaise Matuidi,9.22,0,1
+8658,2,51,Croatia,Marcelo Brozović,7.28,0,1
+8658,2,51,Croatia,Luka Modrić,10.0,0,1
+8658,2,51,Croatia,Mario Mandžukić,20.59,0,0
+8658,2,51,France,Olivier Giroud,10.2,0,1
+8658,2,51,France,Paul Pogba,55.54,0,1
+8658,2,51,Croatia,Marcelo Brozović,34.89,0,1
+8658,2,51,Croatia,Šime Vrsaljko,12.65,0,1
+8658,2,51,Croatia,Luka Modrić,49.04,0,1
+8658,2,52,France,Kylian Mbappé Lottin,3.61,0,0
+8658,2,52,Croatia,Ivan Rakitić,40.2,0,1
+8658,2,52,Croatia,Domagoj Vida,14.56,0,1
+8658,2,52,Croatia,Marcelo Brozović,24.04,0,1
+8658,2,52,Croatia,Ivan Rakitić,15.65,1,0
+8658,2,53,Croatia,Ivan Strinić,5.39,0,1
+8658,2,53,France,Benjamin Pavard,15.13,0,0
+8658,2,53,Croatia,Ivan Strinić,13.0,0,1
+8658,2,53,Croatia,Ivan Rakitić,33.94,1,0
+8658,2,54,France,Olivier Giroud,7.81,0,0
+8658,2,54,Croatia,Ivan Strinić,29.53,0,0
+8658,2,54,France,Paul Pogba,13.6,0,0
+8658,2,54,Croatia,Domagoj Vida,18.79,0,0
+8658,2,54,France,Steven N''Kemboanza Mike Christopher Nzonzi,12.0,0,1
+8658,2,54,France,Antoine Griezmann,15.0,0,0
+8658,2,54,Croatia,Dejan Lovren,2.24,0,0
+8658,2,54,Croatia,Šime Vrsaljko,16.55,0,1
+8658,2,54,Croatia,Dejan Lovren,3.0,0,0
+8658,2,54,Croatia,Šime Vrsaljko,14.56,0,1
+8658,2,55,Croatia,Marcelo Brozović,62.17,0,1
+8658,2,55,Croatia,Ivan Strinić,14.14,1,1
+8658,2,55,Croatia,Ivan Perišić,11.05,0,1
+8658,2,55,Croatia,Ivan Rakitić,24.52,0,1
+8658,2,55,Croatia,Luka Modrić,36.36,0,1
+8658,2,55,Croatia,Šime Vrsaljko,10.0,0,1
+8658,2,55,Croatia,Luka Modrić,14.42,0,1
+8658,2,55,Croatia,Domagoj Vida,12.81,0,0
+8658,2,56,France,Lucas Hernández Pi,28.79,0,0
+8658,2,56,Croatia,Luka Modrić,36.06,0,0
+8658,2,56,France,Samuel Yves Umtiti,13.04,0,1
+8658,2,56,France,Paul Pogba,35.44,0,1
+8658,2,56,France,Benjamin Pavard,12.17,0,1
+8658,2,56,Croatia,Marcelo Brozović,7.62,0,1
+8658,2,56,Croatia,Mario Mandžukić,32.98,0,1
+8658,2,56,Croatia,Šime Vrsaljko,12.04,0,1
+8658,2,56,Croatia,Dejan Lovren,21.84,0,1
+8658,2,56,Croatia,Marcelo Brozović,10.05,0,1
+8658,2,56,Croatia,Marcelo Brozović,19.31,0,1
+8658,2,57,Croatia,Ivan Strinić,18.25,0,1
+8658,2,57,Croatia,Ivan Perišić,38.08,0,0
+8658,2,57,France,Hugo Lloris,58.55,0,0
+8658,2,57,Croatia,Ivan Rakitić,22.09,1,1
+8658,2,57,Croatia,Šime Vrsaljko,14.21,0,1
+8658,2,57,Croatia,Mario Mandžukić,31.02,1,1
+8658,2,57,Croatia,Ante Rebić,43.27,1,1
+8658,2,57,Croatia,Ivan Perišić,54.23,0,0
+8658,2,58,France,Lucas Hernández Pi,22.09,0,1
+8658,2,58,France,Olivier Giroud,5.0,0,1
+8658,2,58,France,Steven N''Kemboanza Mike Christopher Nzonzi,16.12,0,1
+8658,2,58,France,Antoine Griezmann,21.93,0,1
+8658,2,58,France,Paul Pogba,76.03,1,1
+8658,2,58,France,Kylian Mbappé Lottin,13.0,0,1
+8658,2,58,France,Antoine Griezmann,7.62,1,1
+8658,2,60,Croatia,Mario Mandžukić,10.05,0,1
+8658,2,60,Croatia,Marcelo Brozović,10.05,0,1
+8658,2,60,Croatia,Ivan Rakitić,26.4,0,0
+8658,2,60,France,Benjamin Pavard,19.65,0,1
+8658,2,60,France,Paul Pogba,30.81,0,1
+8658,2,60,France,Blaise Matuidi,11.4,0,1
+8658,2,60,France,Steven N''Kemboanza Mike Christopher Nzonzi,15.81,1,1
+8658,2,60,France,Lucas Hernández Pi,20.4,0,1
+8658,2,60,France,Paul Pogba,35.74,0,1
+8658,2,60,France,Blaise Matuidi,37.22,0,0
+8658,2,61,France,Antoine Griezmann,30.15,0,0
+8658,2,61,France,Benjamin Pavard,5.83,0,0
+8658,2,61,France,Olivier Giroud,7.07,0,1
+8658,2,61,France,Benjamin Pavard,8.06,0,0
+8658,2,61,Croatia,Marcelo Brozović,6.71,0,1
+8658,2,61,Croatia,Domagoj Vida,38.95,0,1
+8658,2,62,Croatia,Marcelo Brozović,33.73,0,1
+8658,2,62,Croatia,Luka Modrić,30.08,0,1
+8658,2,62,Croatia,Šime Vrsaljko,15.56,0,1
+8658,2,62,Croatia,Marcelo Brozović,12.0,0,1
+8658,2,62,Croatia,Dejan Lovren,19.42,0,1
+8658,2,62,Croatia,Domagoj Vida,14.14,0,1
+8658,2,62,Croatia,Ivan Rakitić,8.06,0,1
+8658,2,62,Croatia,Ante Rebić,56.65,0,1
+8658,2,62,Croatia,Ivan Perišić,18.36,1,0
+8658,2,62,Croatia,Ivan Perišić,8.6,0,0
+8658,2,62,Croatia,Šime Vrsaljko,16.12,0,1
+8658,2,62,Croatia,Marcelo Brozović,7.21,0,1
+8658,2,63,Croatia,Luka Modrić,14.04,0,1
+8658,2,63,Croatia,Ivan Strinić,25.06,0,1
+8658,2,63,Croatia,Domagoj Vida,29.27,0,1
+8658,2,63,Croatia,Dejan Lovren,21.93,0,1
+8658,2,63,Croatia,Šime Vrsaljko,37.12,0,0
+8658,2,63,Croatia,Luka Modrić,5.1,1,1
+8658,2,63,Croatia,Dejan Lovren,19.92,0,1
+8658,2,63,Croatia,Mario Mandžukić,10.77,0,1
+8658,2,63,Croatia,Šime Vrsaljko,22.63,0,1
+8658,2,63,Croatia,Dejan Lovren,11.05,0,1
+8658,2,63,Croatia,Marcelo Brozović,17.09,0,1
+8658,2,63,Croatia,Ivan Rakitić,29.07,0,1
+8658,2,63,Croatia,Ivan Strinić,6.4,0,1
+8658,2,63,Croatia,Ivan Perišić,9.22,1,0
+8658,2,63,Croatia,Ante Rebić,5.1,1,1
+8658,2,64,Croatia,Domagoj Vida,11.4,0,0
+8658,2,64,France,Blaise Matuidi,19.72,1,1
+8658,2,64,France,Antoine Griezmann,20.62,0,1
+8658,2,64,France,Steven N''Kemboanza Mike Christopher Nzonzi,15.81,0,1
+8658,2,64,France,Paul Pogba,23.02,1,1
+8658,2,64,France,Lucas Hernández Pi,8.54,0,1
+8658,2,64,France,Blaise Matuidi,20.1,0,1
+8658,2,64,France,Paul Pogba,12.37,0,1
+8658,2,64,France,Steven N''Kemboanza Mike Christopher Nzonzi,13.0,0,1
+8658,2,64,France,Paul Pogba,13.15,0,1
+8658,2,64,France,Lucas Hernández Pi,24.02,0,1
+8658,2,66,Croatia,Marcelo Brozović,9.9,0,1
+8658,2,66,Croatia,Luka Modrić,11.7,1,1
+8658,2,66,Croatia,Marcelo Brozović,28.46,0,1
+8658,2,66,Croatia,Šime Vrsaljko,15.65,0,1
+8658,2,66,Croatia,Marcelo Brozović,30.46,0,0
+8658,2,66,France,Paul Pogba,10.82,0,1
+8658,2,66,France,Antoine Griezmann,7.07,1,1
+8658,2,66,France,Steven N''Kemboanza Mike Christopher Nzonzi,10.77,0,1
+8658,2,66,France,Blaise Matuidi,5.39,0,1
+8658,2,66,France,Lucas Hernández Pi,8.06,0,1
+8658,2,66,France,Steven N''Kemboanza Mike Christopher Nzonzi,20.62,1,1
+8658,2,66,France,Blaise Matuidi,9.22,0,1
+8658,2,66,France,Lucas Hernández Pi,9.49,1,1
+8658,2,66,Croatia,Šime Vrsaljko,28.64,0,0
+8658,2,66,France,Samuel Yves Umtiti,9.85,0,1
+8658,2,67,France,Paul Pogba,41.68,1,1
+8658,2,67,France,Kylian Mbappé Lottin,13.42,0,1
+8658,2,67,France,Paul Pogba,23.09,0,1
+8658,2,67,France,Steven N''Kemboanza Mike Christopher Nzonzi,16.28,0,1
+8658,2,67,France,Samuel Yves Umtiti,14.32,0,1
+8658,2,67,France,Steven N''Kemboanza Mike Christopher Nzonzi,14.32,0,1
+8658,2,67,France,Raphaël Varane,23.26,0,1
+8658,2,67,France,Benjamin Pavard,12.08,0,1
+8658,2,67,France,Raphaël Varane,22.85,0,1
+8658,2,67,France,Steven N''Kemboanza Mike Christopher Nzonzi,12.73,0,1
+8658,2,67,France,Paul Pogba,10.63,1,1
+8658,2,67,France,Paul Pogba,41.68,0,1
+8658,2,67,Croatia,Marcelo Brozović,23.54,0,1
+8658,2,67,Croatia,Šime Vrsaljko,25.94,1,1
+8658,2,67,Croatia,Ivan Perišić,18.25,0,0
+8658,2,68,France,Lucas Hernández Pi,31.78,0,1
+8658,2,68,France,Samuel Yves Umtiti,26.83,1,1
+8658,2,68,Croatia,Ivan Rakitić,11.05,0,1
+8658,2,68,Croatia,Luka Modrić,13.04,1,1
+8658,2,68,Croatia,Mario Mandžukić,25.46,0,1
+8658,2,68,Croatia,Ivan Perišić,14.87,0,1
+8658,2,69,Croatia,Luka Modrić,21.21,0,1
+8658,2,69,Croatia,Šime Vrsaljko,8.54,0,1
+8658,2,69,Croatia,Ivan Perišić,12.04,1,1
+8658,2,69,Croatia,Luka Modrić,18.44,0,1
+8658,2,69,Croatia,Marcelo Brozović,9.85,0,1
+8658,2,69,Croatia,Ivan Rakitić,22.85,0,1
+8658,2,69,Croatia,Dejan Lovren,22.0,0,1
+8658,2,69,Croatia,Ivan Rakitić,16.4,0,1
+8658,2,69,Croatia,Ivan Strinić,15.03,0,1
+8658,2,69,Croatia,Marcelo Brozović,45.49,0,1
+8658,2,69,Croatia,Šime Vrsaljko,63.07,0,0
+8658,2,69,France,Benjamin Pavard,6.71,0,1
+8658,2,69,France,Paul Pogba,8.06,1,1
+8658,2,69,France,Benjamin Pavard,62.18,1,0
+8658,2,69,Croatia,Dejan Lovren,18.0,0,1
+8658,2,70,Croatia,Marcelo Brozović,15.65,0,1
+8658,2,70,Croatia,Ivan Rakitić,19.92,0,1
+8658,2,70,Croatia,Ante Rebić,43.74,0,0
+8658,2,70,France,Hugo Lloris,63.29,0,1
+8658,2,70,France,Steven N''Kemboanza Mike Christopher Nzonzi,13.6,0,0
+8658,2,70,Croatia,Marcelo Brozović,17.46,0,0
+8658,2,71,France,Blaise Matuidi,6.71,0,1
+8658,2,71,Croatia,Ivan Perišić,51.01,0,0
+8658,2,71,France,Hugo Lloris,66.07,0,1
+8658,2,71,France,Antoine Griezmann,12.73,0,0
+8658,2,71,France,Samuel Yves Umtiti,25.06,1,0
+8658,2,73,France,Corentin Tolisso,15.56,0,1
+8658,2,73,France,Lucas Hernández Pi,31.0,0,0
+8658,2,73,France,Lucas Hernández Pi,13.34,0,1
+8658,2,73,France,Antoine Griezmann,6.32,0,0
+8658,2,73,Croatia,Marcelo Brozović,21.0,0,0
+8658,2,73,France,Lucas Hernández Pi,39.05,0,0
+8658,2,73,France,Corentin Tolisso,26.17,0,0
+8658,2,73,Croatia,Dejan Lovren,88.6,0,0
+8658,2,73,France,Hugo Lloris,71.81,0,0
+8658,2,73,Croatia,Dejan Lovren,14.56,0,0
+8658,2,73,France,Paul Pogba,28.46,0,1
+8658,2,73,France,Kylian Mbappé Lottin,17.03,0,1
+8658,2,73,France,Benjamin Pavard,20.62,0,1
+8658,2,74,France,Steven N''Kemboanza Mike Christopher Nzonzi,32.06,1,1
+8658,2,74,France,Antoine Griezmann,17.49,0,1
+8658,2,74,France,Corentin Tolisso,14.76,1,1
+8658,2,74,France,Olivier Giroud,1.41,1,0
+8658,2,74,Croatia,Marcelo Brozović,7.21,0,1
+8658,2,74,Croatia,Šime Vrsaljko,11.66,0,1
+8658,2,74,Croatia,Mario Mandžukić,9.22,1,1
+8658,2,74,Croatia,Šime Vrsaljko,18.6,1,1
+8658,2,74,Croatia,Ivan Perišić,31.58,0,0
+8658,2,74,Croatia,Mario Mandžukić,21.0,0,1
+8658,2,74,Croatia,Luka Modrić,13.45,0,1
+8658,2,74,Croatia,Marcelo Brozović,12.37,0,1
+8658,2,74,Croatia,Andrej Kramarić,15.23,0,1
+8658,2,74,Croatia,Ivan Strinić,26.31,0,0
+8658,2,74,France,Olivier Giroud,3.16,0,1
+8658,2,74,France,Antoine Griezmann,3.61,1,1
+8658,2,74,France,Olivier Giroud,9.85,0,1
+8658,2,74,Croatia,Marcelo Brozović,12.73,0,1
+8658,2,74,Croatia,Ivan Strinić,5.1,0,1
+8658,2,74,Croatia,Marcelo Brozović,29.12,0,1
+8658,2,75,France,Olivier Giroud,11.7,0,1
+8658,2,75,France,Antoine Griezmann,9.43,0,1
+8658,2,75,France,Corentin Tolisso,33.11,0,1
+8658,2,76,France,Lucas Hernández Pi,13.0,0,1
+8658,2,76,France,Olivier Giroud,13.15,0,0
+8658,2,76,Croatia,Luka Modrić,21.02,0,1
+8658,2,76,Croatia,Marcelo Brozović,9.85,1,1
+8658,2,76,Croatia,Domagoj Vida,17.8,1,1
+8658,2,76,Croatia,Luka Modrić,18.79,0,1
+8658,2,76,Croatia,Andrej Kramarić,19.21,0,1
+8658,2,76,Croatia,Ivan Rakitić,29.07,0,0
+8658,2,76,France,Lucas Hernández Pi,26.02,0,0
+8658,2,76,Croatia,Dejan Lovren,11.18,0,1
+8658,2,76,Croatia,Luka Modrić,23.32,0,1
+8658,2,76,Croatia,Marcelo Brozović,8.94,0,1
+8658,2,76,Croatia,Luka Modrić,26.63,0,1
+8658,2,76,Croatia,Šime Vrsaljko,7.07,0,1
+8658,2,76,Croatia,Marcelo Brozović,24.74,0,1
+8658,2,76,Croatia,Dejan Lovren,8.94,0,1
+8658,2,76,Croatia,Ivan Rakitić,44.94,0,1
+8658,2,76,Croatia,Ivan Strinić,25.63,0,1
+8658,2,76,Croatia,Ivan Rakitić,65.37,1,1
+8658,2,77,Croatia,Šime Vrsaljko,16.12,0,1
+8658,2,77,Croatia,Luka Modrić,21.26,0,0
+8658,2,77,Croatia,Andrej Kramarić,8.94,0,1
+8658,2,77,France,Olivier Giroud,6.32,0,0
+8658,2,77,Croatia,Domagoj Vida,36.06,0,0
+8658,2,77,France,Raphaël Varane,58.03,0,0
+8658,2,77,Croatia,Danijel Subašić,11.18,0,1
+8658,2,77,Croatia,Dejan Lovren,0.0,0,1
+8658,2,78,Croatia,Šime Vrsaljko,13.93,0,1
+8658,2,78,Croatia,Marcelo Brozović,12.37,0,1
+8658,2,78,Croatia,Andrej Kramarić,9.85,0,1
+8658,2,78,Croatia,Marcelo Brozović,56.92,0,1
+8658,2,78,France,Benjamin Pavard,11.0,0,1
+8658,2,78,France,Kylian Mbappé Lottin,14.04,0,1
+8658,2,78,France,Raphaël Varane,34.37,0,1
+8658,2,78,France,Olivier Giroud,9.22,0,0
+8658,2,78,Croatia,Ivan Rakitić,36.62,0,1
+8658,2,78,Croatia,Dejan Lovren,20.0,0,1
+8658,2,78,Croatia,Marcelo Brozović,18.03,0,1
+8658,2,78,Croatia,Luka Modrić,14.32,1,1
+8658,2,78,Croatia,Dejan Lovren,14.04,0,1
+8658,2,78,Croatia,Domagoj Vida,8.94,0,1
+8658,2,78,Croatia,Luka Modrić,14.32,0,1
+8658,2,78,Croatia,Marcelo Brozović,23.32,0,0
+8658,2,79,Croatia,Domagoj Vida,7.28,0,1
+8658,2,79,Croatia,Dejan Lovren,34.01,0,1
+8658,2,79,Croatia,Ivan Rakitić,19.24,0,1
+8658,2,79,Croatia,Luka Modrić,26.02,0,1
+8658,2,79,Croatia,Marcelo Brozović,36.12,0,1
+8658,2,79,Croatia,Šime Vrsaljko,28.6,1,1
+8658,2,79,Croatia,Marcelo Brozović,8.06,0,1
+8658,2,79,Croatia,Andrej Kramarić,31.05,0,1
+8658,2,79,Croatia,Ivan Strinić,15.13,0,1
+8658,2,79,Croatia,Mario Mandžukić,23.35,0,1
+8658,2,79,Croatia,Luka Modrić,7.62,0,1
+8658,2,79,Croatia,Ivan Perišić,24.17,0,1
+8658,2,79,Croatia,Šime Vrsaljko,14.32,0,1
+8658,2,79,Croatia,Luka Modrić,16.28,0,1
+8658,2,80,Croatia,Dejan Lovren,20.25,0,0
+8658,2,80,Croatia,Danijel Subašić,17.69,0,1
+8658,2,80,Croatia,Domagoj Vida,29.21,0,1
+8658,2,80,Croatia,Šime Vrsaljko,26.0,0,0
+8658,2,81,Croatia,Šime Vrsaljko,24.08,0,1
+8658,2,81,France,Paul Pogba,30.07,1,1
+8658,2,81,Croatia,Luka Modrić,14.32,0,1
+8658,2,81,Croatia,Dejan Lovren,9.85,0,1
+8658,2,81,Croatia,Marcelo Brozović,11.66,0,1
+8658,2,81,Croatia,Ivan Rakitić,9.43,0,1
+8658,2,81,Croatia,Andrej Kramarić,30.48,1,1
+8658,2,82,Croatia,Šime Vrsaljko,27.66,0,0
+8658,2,82,France,Paul Pogba,29.41,0,0
+8658,2,82,Croatia,Domagoj Vida,16.64,0,1
+8658,2,82,Croatia,Ivan Perišić,18.11,1,1
+8658,2,82,Croatia,Domagoj Vida,18.97,0,1
+8658,2,83,Croatia,Ivan Rakitić,47.01,0,0
+8658,2,84,France,Paul Pogba,5.39,0,1
+8658,2,84,France,Nabil Fekir,32.02,0,0
+8658,2,84,Croatia,Domagoj Vida,7.28,0,1
+8658,2,84,Croatia,Marko Pjaca,11.4,0,1
+8658,2,84,Croatia,Domagoj Vida,24.33,0,1
+8658,2,84,Croatia,Dejan Lovren,54.2,0,1
+8658,2,84,Croatia,Šime Vrsaljko,28.43,0,1
+8658,2,84,Croatia,Dejan Lovren,21.84,0,1
+8658,2,84,Croatia,Marcelo Brozović,21.93,0,1
+8658,2,84,Croatia,Ivan Perišić,8.6,0,1
+8658,2,84,Croatia,Ivan Rakitić,23.35,0,0
+8658,2,84,France,Kylian Mbappé Lottin,4.0,1,0
+8658,2,84,Croatia,Dejan Lovren,13.89,0,1
+8658,2,84,Croatia,Ivan Rakitić,17.26,0,1
+8658,2,84,Croatia,Domagoj Vida,26.93,0,1
+8658,2,84,Croatia,Šime Vrsaljko,27.46,0,1
+8658,2,84,Croatia,Marko Pjaca,21.21,0,0
+8658,2,85,France,Hugo Lloris,71.18,0,1
+8658,2,85,France,Nabil Fekir,27.17,0,0
+8658,2,85,Croatia,Marcelo Brozović,5.0,1,0
+8658,2,85,Croatia,Marcelo Brozović,19.31,0,1
+8658,2,85,Croatia,Domagoj Vida,19.8,0,1
+8658,2,85,France,Paul Pogba,21.63,0,1
+8658,2,86,France,Paul Pogba,21.1,0,0
+8658,2,86,Croatia,Marcelo Brozović,7.81,0,1
+8658,2,86,Croatia,Šime Vrsaljko,14.04,0,1
+8658,2,86,Croatia,Luka Modrić,26.91,1,1
+8658,2,86,Croatia,Marcelo Brozović,14.14,1,1
+8658,2,86,Croatia,Šime Vrsaljko,13.34,0,1
+8658,2,86,Croatia,Marcelo Brozović,12.53,0,1
+8658,2,86,Croatia,Luka Modrić,8.94,0,1
+8658,2,86,Croatia,Andrej Kramarić,12.04,0,1
+8658,2,86,Croatia,Šime Vrsaljko,16.03,0,1
+8658,2,87,Croatia,Ivan Rakitić,28.43,0,1
+8658,2,87,Croatia,Ivan Perišić,46.62,0,0
+8658,2,87,France,Hugo Lloris,92.72,0,0
+8658,2,87,Croatia,Danijel Subašić,16.16,0,1
+8658,2,87,Croatia,Domagoj Vida,9.06,0,1
+8658,2,87,Croatia,Marcelo Brozović,16.64,0,1
+8658,2,87,Croatia,Ivan Rakitić,5.83,0,1
+8658,2,87,Croatia,Marcelo Brozović,24.02,0,1
+8658,2,87,Croatia,Luka Modrić,15.3,0,1
+8658,2,87,Croatia,Marko Pjaca,18.38,1,1
+8658,2,87,Croatia,Šime Vrsaljko,22.2,1,1
+8658,2,87,Croatia,Dejan Lovren,44.01,0,1
+8658,2,88,Croatia,Domagoj Vida,12.37,0,1
+8658,2,88,Croatia,Andrej Kramarić,11.4,0,1
+8658,2,88,Croatia,Domagoj Vida,9.22,0,1
+8658,2,88,Croatia,Andrej Kramarić,10.2,0,1
+8658,2,88,France,Hugo Lloris,63.25,0,1
+8658,2,88,France,Paul Pogba,10.44,1,1
+8658,2,88,France,Antoine Griezmann,8.6,0,1
+8658,2,88,France,Nabil Fekir,11.66,1,1
+8658,2,88,France,Steven N''Kemboanza Mike Christopher Nzonzi,21.02,0,1
+8658,2,88,Croatia,Marcelo Brozović,14.04,0,1
+8658,2,89,Croatia,Ivan Rakitić,57.14,0,0
+8658,2,89,France,Lucas Hernández Pi,27.46,0,0
+8658,2,89,Croatia,Šime Vrsaljko,11.31,0,1
+8658,2,89,Croatia,Dejan Lovren,13.42,0,1
+8658,2,89,Croatia,Marcelo Brozović,2.24,0,0
+8658,2,90,Croatia,Luka Modrić,19.21,0,1
+8658,2,90,Croatia,Šime Vrsaljko,34.48,0,0
+8658,2,90,France,Samuel Yves Umtiti,20.62,0,1
+8658,2,90,France,Lucas Hernández Pi,15.3,0,1
+8658,2,90,France,Steven N''Kemboanza Mike Christopher Nzonzi,8.54,0,1
+8658,2,90,France,Antoine Griezmann,23.35,0,1
+8658,2,90,France,Antoine Griezmann,1.41,0,0
+8658,2,90,France,Lucas Hernández Pi,17.12,0,1
+8658,2,90,Croatia,Marcelo Brozović,26.93,1,1
+8658,2,90,Croatia,Domagoj Vida,19.24,0,1
+8658,2,91,Croatia,Ivan Rakitić,15.0,0,0
+8658,2,91,France,Kylian Mbappé Lottin,23.41,0,1
+8658,2,91,Croatia,Danijel Subašić,32.65,0,1
+8658,2,91,Croatia,Mario Mandžukić,13.6,0,1
+8658,2,91,Croatia,Luka Modrić,16.03,0,0
+8658,2,91,France,Lucas Hernández Pi,15.03,0,1
+8658,2,92,France,Kylian Mbappé Lottin,41.59,0,0
+8658,2,92,Croatia,Luka Modrić,19.24,1,1
+8658,2,92,Croatia,Mario Mandžukić,5.0,0,0
+8658,2,92,France,Corentin Tolisso,17.09,0,0
+8658,2,92,Croatia,Dejan Lovren,74.4,0,0
+8658,2,92,France,Raphaël Varane,16.12,0,0
+8658,2,92,France,Steven N''Kemboanza Mike Christopher Nzonzi,5.39,0,1
+8658,2,92,Croatia,Domagoj Vida,24.04,0,1
+8658,2,93,Croatia,Dejan Lovren,14.42,0,1
+8658,2,93,Croatia,Marcelo Brozović,19.24,0,1
+8658,2,93,Croatia,Andrej Kramarić,10.0,0,1
+8658,2,93,France,Benjamin Pavard,48.0,0,0
+8658,2,93,Croatia,Domagoj Vida,12.53,0,1
+8658,2,93,Croatia,Ivan Rakitić,13.04,0,1
+8658,2,94,France,Nabil Fekir,28.16,0,0
+8658,2,94,Croatia,Domagoj Vida,47.1,0,0
+8658,2,94,France,Raphaël Varane,41.59,0,0
+8658,2,94,Croatia,Marcelo Brozović,11.31,0,1
+8658,2,94,Croatia,Ivan Rakitić,37.95,0,1
+8658,2,94,Croatia,Ivan Perišić,46.17,1,0
+8658,2,95,France,Hugo Lloris,34.53,0,0
